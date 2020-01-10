@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* 苹果
+* 梨
+* 香蕉
